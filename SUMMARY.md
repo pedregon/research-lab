@@ -4,7 +4,7 @@
 
 ## Pinned
 
-* [Untitled](pinned/untitled.md)
+* [Frequently Asked Questions](pinned/untitled.md)
 
 ## Projects
 
