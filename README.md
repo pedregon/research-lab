@@ -31,6 +31,10 @@ However, many of the tools, tactics, and procedures \(TTPs\) that will be discus
 
 I am a student cyber security researcher at George Mason University currently pursuing the electrical and computer engineering doctoral program. I also have some experience in the offensive security industry. Specifically, I am interested in operating systems security, industrial control systems security, and exploit development. If you are interested in following up or have any questions regarding the content posted, please feel free to message me on any of the provided points of contact listed.
 
+## Inspiration
+
+{% page-ref page="./" %}
+
 ## Social
 
 Follow me on [twitter](https://twitter.com/pedreg0n).
