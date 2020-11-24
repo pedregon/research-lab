@@ -4,13 +4,21 @@ description: Frequently asked questions.
 
 # FAQ
 
-## Can I become who I want to be?
+## Am I able to contribute?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+If you believe that you have some research that belongs in this series of blog posts, please feel free to reach out over any of the provided points of contact listed. If approved, I will work directly with you to create a guest blog post.
 
-## Where can I find additional resources?
+## How can I stay up to date with the latest TTPs?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+I encourage you to check out my aggregated collection of recommended content streams under the resources section. Follow the link below for an organized tour.
+
+{% page-ref page="../resources/recommended/" %}
+
+
+
+
+
+
 
 
 

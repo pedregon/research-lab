@@ -33,7 +33,7 @@ I am a student cyber security researcher at George Mason University currently pu
 
 ## Inspiration
 
-{% page-ref page="resources/recommended/researchers.md" %}
+{% page-ref page="resources/recommended/blogs.md" %}
 
 ## Social
 
