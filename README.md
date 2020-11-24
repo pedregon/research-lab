@@ -18,7 +18,7 @@ The purpose of this blog series is to act as not only a safe place for me to rel
 * Network programming
 * Machine learning and data analysis
 
-However, most of the tools, tactics, and procedures \(TTPs\) that will be discussed were orginally discovered by other security researchers or may be referenced elsewhere online. I do not claim credit or ownership for any of these occurrences and try my best to reference sources accordingly. My goal in re-posting or utilizing existing TTPs is to further upon the existing repositories of information by logging my own journey and contributing new paradigms to the conversation. If I have missed citing something, please reach out to me on any of the provided points of contact listed.
+However, many of the tools, tactics, and procedures \(TTPs\) that will be discussed were orginally discovered by other security researchers or may be referenced elsewhere online. I do not claim credit or ownership for any of these occurrences and try my best to reference sources accordingly. My goal in re-posting or utilizing existing TTPs is to further upon the existing repositories of information by logging my own journey and contributing new paradigms to the conversation. If I have missed citing something, please reach out to me on any of the provided points of contact listed.
 
 {% hint style="info" %}
 * Do not take these blog posts for **granted**
